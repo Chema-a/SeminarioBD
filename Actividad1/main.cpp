@@ -5,6 +5,7 @@ int main()
 {
     Paqueteria pa;
     string op;
+    cout << "Bienvenido al menu, elige un opción"<< endl;
     while(true)
     {
 
