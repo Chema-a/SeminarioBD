@@ -1,0 +1,6 @@
+﻿  main.cpp
+  paquete.cpp
+  paqueteria.cpp
+  Generando código...
+LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/OPT:ICF'
+  Actividad 1.vcxproj -> C:\Users\chiva\Desktop\Actividad1\Release\Actividad 1.exe
