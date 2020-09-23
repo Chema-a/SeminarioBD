@@ -5,7 +5,7 @@ int main()
 {
     Paqueteria pa;
     string op;
-    //cout << "Bienvenido al menu, elige un opciï¿½n"<< endl;//
+    cout << "Bienvenido al menu, elige un opción"<< endl;
     while(true)
     {
 
@@ -69,7 +69,7 @@ int main()
         system("CLS");
     }
     else if (op == "0")
-        //cout << "Muy bien te esperamos para tu siguiente enviï¿½" << endl;//
+        cout << "Muy bien te esperamos para tu siguiente envió" << endl;
         break;
     }
     return 0;
